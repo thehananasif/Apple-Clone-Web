@@ -1,6 +1,6 @@
 # Apple Clone Web by Hanan Asif
 
-![Uploading AopleCloneWebImage.png…]()
+![AopleCloneWebImage](https://github.com/user-attachments/assets/6fd82644-fc64-46a5-af85-76b3a8cd7156)
 
 A meticulously crafted clone of the [Apple website](https://www.apple.com), built using **Next.js** to replicate its sleek design, smooth animations, and responsive layout. This project showcases modern web development techniques, focusing on performance, accessibility, and user experience.
 
