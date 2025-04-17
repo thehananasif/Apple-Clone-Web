@@ -120,13 +120,3 @@ Please ensure your code follows the project's coding standards and includes rele
 
 ## License
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the license terms.
-
-## Contact
-- **Author**: Hanan Asif
-- **GitHub**: [your-username](https://github.com/your-username)
-- **Email**: your.email@example.com
-- **Project Link**: [https://github.com/your-username/apple-clone](https://github.com/your-username/apple-clone)
-
----
-
-⭐ If you find this project helpful, please give it a star on GitHub! Your feedback and contributions are greatly appreciated.
