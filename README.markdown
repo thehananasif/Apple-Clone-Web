@@ -1,6 +1,6 @@
-# Apple Website Clone
+# Apple Clone Web by Hanan Asif
 
-![Apple Clone Banner](https://via.placeholder.com/1200x300.png?text=Apple+Website+Clone)
+![Uploading AopleCloneWebImage.png…]()
 
 A meticulously crafted clone of the [Apple website](https://www.apple.com), built using **Next.js** to replicate its sleek design, smooth animations, and responsive layout. This project showcases modern web development techniques, focusing on performance, accessibility, and user experience.
 
